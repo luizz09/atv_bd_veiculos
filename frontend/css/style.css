@@ -54,3 +54,18 @@ label, p{
     font-family: Tahoma;
     color: white;
 }
+
+.centro{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 1px solid white;
+    padding: 8px;
+}
